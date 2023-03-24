@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.0'
+
+target 'BaseApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # ignore all warnings from all dependencies
+  inhibit_all_warnings!
+
+  # Pods for Meninki
+  pod 'FirebaseCore'
+  pod 'FirebaseMessaging'
+
+  pod 'Alamofire', '~> 5.6.4'
+  pod 'Kingfisher', '~> 7.0'
+
+  pod 'EasyPeasy', '~> 1.9.0'
+  pod 'TLPhotoPicker', '~> 2.1.0'
+  pod 'Localize-Swift', '~> 3.2'
+
+end
