@@ -1,8 +1,8 @@
 //
 //  Encodable.swift
-//  Guncha
+//  BaseApp
 //
-//  Created by Shirin on 2/19/23.
+//  Created by Shirin on 3/24/23.
 //
 
 import Foundation

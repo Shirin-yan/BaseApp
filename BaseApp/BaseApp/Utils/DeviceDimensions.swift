@@ -2,7 +2,7 @@
 //  DeviceDimensions.swift
 //  BaseApp
 //
-//  Created by MacBook Pro on 15.12.2022.
+//  Created by Shirin on 3/24/23.
 //
 
 import UIKit
